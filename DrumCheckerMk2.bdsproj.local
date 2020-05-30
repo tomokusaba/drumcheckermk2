@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/10/29 12:20:24.421.pas,D:\Borland Studio Projects\Unit1.pas=D:\Borland Studio Projects\drum1\Unit1.pas</Transaction>
+    <Transaction>2007/10/29 12:20:24.421.dfm,D:\Borland Studio Projects\Unit1.dfm=D:\Borland Studio Projects\drum1\Unit1.dfm</Transaction>
+    <Transaction>2007/10/29 12:20:28.421.bdsproj,D:\Borland Studio Projects\Project1.bdsproj=D:\Borland Studio Projects\drum1\Project1.bdsproj</Transaction>
+    <Transaction>2007/10/31 11:54:11.640.bdsproj,C:\解凍\drum1\drum1\Project1.bdsproj=C:\解凍\drum1\drum1\DrumCheckerMk2.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
